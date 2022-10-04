@@ -1,0 +1,107 @@
+
+
+/* .header {
+    padding: 25px 10px;
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+}
+
+.inhead {
+    width: 960px;
+}
+
+.site_name {
+    width: 93%;
+    text-align: center;
+}
+
+.avatar {
+    float: left;
+    width: 100px;
+    border-radius: 16px;
+    box-shadow: -5px -5px 14px aqua;
+}
+
+.menu {
+    margin-top: 0;
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+}
+
+#table-form-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+#table-form-wrapper form {
+    order: 1;
+    padding-bottom: 20px;
+}
+
+#table-form-wrapper .table {
+    order: 2;
+}
+
+@media screen and (min-width: 800px) {
+    .menu {
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #table-form-wrapper form {
+        order: 2;
+    }
+    
+    #table-form-wrapper .table {
+        order: 1;
+    }
+}
+
+.menu li {
+    margin-right: 20px;
+}
+
+.menu li:last-child {
+    margin-right: 0; 
+}
+
+.container {
+    max-width: 960px;
+    margin: auto;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
+
+#htmlcssjs {
+    display: block;
+    width: 260px;
+    height: 232px;
+}
+
+
+table, td, th {
+    border: 1px solid black;
+    width: 350px;
+    height: 50px;
+}
+
+.table tr:nth-child(odd) {
+    background-color: blanchedalmond;
+}
+
+.table tr:nth-child(even) {
+    background-color: gainsboro;
+}
+
+.floor {
+    background-color: bisque;
+    padding: 50px;
+}
+
+.floor #developer_kvn {
+    margin-left: 20px;
+} */
