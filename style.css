@@ -17,28 +17,7 @@
 }
 
 #table-form-wrapper form {
-    order: 1;
     padding-bottom: 20px;
-}
-
-#table-form-wrapper .table {
-    order: 2;
-}
-
-@media screen and (min-width: 800px) {
-    .menu {
-        flex-direction: row;
-        justify-content: center;
-        align-items: center;
-    }
-
-    #table-form-wrapper form {
-        order: 2;
-    }
-    
-    #table-form-wrapper .table {
-        order: 1;
-    }
 }
 
 .menu li {
